@@ -46,6 +46,8 @@ header {
 
 body {
   line-height: 1;
+  background: #024486;
+  color: #fff;
 }
 
 footer,
@@ -88,7 +90,7 @@ h1 {
 
 #home-link {
   text-decoration: none;
-  color: #000;
+  color: #fdba4d;
 }
 
 #coins-list-table,
@@ -101,6 +103,7 @@ h1 {
 #coins-list-table {
   th {
     font-weight: bold;
+    color: #fdba4d;
   }
 
   td {
